@@ -30,7 +30,7 @@ frontend
 
 ##  authentication
 using firebase auth.(oken based - e.g. JWT)
-![image](https://github.com/mercari-build/HomeWork/tree/master/Week6/KayoKikuchi/architecture.jpg)
+![image](https://github.com/kayo289/blog_api/blob/master/architecture.jpg)
 
 ## Store data
 use Heroku Postgres
